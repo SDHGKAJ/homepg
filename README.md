@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **real time data analytics projects**
 
-- 🌱 I’m currently learning **pandas,numpy and sktlearn**
+- 🌱 I’m currently learning **pandas and numpy**
 
 - 👯 I’m looking to collaborate on **any data analytics and web dev projects**
 
